@@ -4,7 +4,7 @@
 ## Student Information
 
 * **Name:** Rihana Nasir
-* **GitHub Username:** https://github.com/arwanasir
+* **GitHub Username:** https://github.com/arwanasir/akiba-week1-python
 * **Bootcamp:** Akiba Technologies Software Engineering and Backend Bootcamp
 * **Week:** 1
 
